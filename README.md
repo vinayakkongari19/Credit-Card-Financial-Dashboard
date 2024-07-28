@@ -4,13 +4,13 @@
 This project involves creating a comprehensive financial dashboard using Power BI to analyze credit card transactions and customer data. The dashboard provides insights into revenue, transaction amounts, customer demographics, and more. The goal is to help stakeholders understand financial performance and customer behavior.
 
 ## Dataset
-- `credit_card.csv`: Credit Card Transactions 
+- `credit_card.csv`:  
 
 Columns: Transaction ID, Customer ID, Transaction Date, Transaction Amount, Merchant, Category, Payment Method, etc.
 
 Description: This dataset contains detailed information on credit card transactions, including the transaction amount, date, and category.
 
-- ` customer.csv`: Credit Card Customers
+- ` customer.csv`: 
 
 Columns: Customer ID, Name, Age, Gender, Income, Education Level, Job, Marital Status, etc. 
 
@@ -37,7 +37,7 @@ Description: This dataset contains demographic information about credit card cus
 
 The analysis was performed using Power BI, focusing on the following areas:
 
--  Quarterly Revenue & Transaction Count:Visualized revenue and transaction count by quarter.
+-  Quarterly Revenue & Transaction Count: Visualized revenue and transaction count by quarter.
 - Revenue by Expenditure Type: Identified key expenditure types driving revenue.
 - Revenue by Customer Demographics: Analyzed revenue based on customer education, job, and card category.
 - Transaction Amounts: Visualized total transaction amounts and identified trends.
